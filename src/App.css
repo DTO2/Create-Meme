@@ -3,14 +3,14 @@
 }
 
 body {
-  background-color: slategray;
+  background-color: lavenderblush;
   text-align: center;
   font-family: 'Nunito', sans-serif;
   margin: 0;
 }
 
 header, h1 {
-  background-color: rgb(15, 15, 141);
+  background-color: lightseagreen;
   margin: 0 auto;
   height: 100px;
   display: flex;
