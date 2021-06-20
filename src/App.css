@@ -10,7 +10,7 @@ body {
 }
 
 header, h1 {
-  background-color: lightseagreen;
+  background-color: rgb(32, 78, 178);
   margin: 0 auto;
   height: 100px;
   display: flex;
